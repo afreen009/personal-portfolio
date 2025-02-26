@@ -93,6 +93,14 @@ section h2 {
     letter-spacing: 1px;
     position: relative;
 }
+section h3 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-color);
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+    position: relative;
+}
 
 section h2::after {
     content: '';
